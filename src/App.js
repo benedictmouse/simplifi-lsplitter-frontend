@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 
-const API_URL = "https://simplifi-lsplitter.onrender.com/api/split-by-sku/";
+const API_URL = "https://simplifi-lsplitter-production.up.railway.app/";
 
 const style = `
   @import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
